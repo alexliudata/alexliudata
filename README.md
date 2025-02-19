@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alex Liu</h1>
-<h3 align="center">A full-stack web developer based in Los Angeles, CA.</h3>
+<h3 align="center">A data analyst based in Berkeley, CA.</h3>
 
 - 👨‍💻 All of my projects are available at [alexliudev.com](https://www.alexliudev.com/)
 
