@@ -9,7 +9,7 @@
   - Python | SQL | Tableau
   
   ## Featured Projects
-  - [Spotify Analytics Project](https://github.com/yourusername/spotify-analytics-project) - Streaming analytics and forecasting
+  - [Spotify Analytics Project](https://github.com/alexliudata/spotify-analytics-project) - Streaming analytics and forecasting
 
 - 📫 How to reach me: **alexliu62598@berkeley.edu**
 
