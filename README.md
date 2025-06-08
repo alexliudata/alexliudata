@@ -6,13 +6,13 @@
 
   On this GitHub, you'll find selected projects involving:
 
-  Machine learning & predictive modeling
+    Machine learning & predictive modeling
 
-  Data wrangling and visualization
+    Data wrangling and visualization
 
-  Public policy & behavioral research
+    Public policy & behavioral research
 
-  Music analytics & campaign optimization
+    Music analytics & campaign optimization
 
   Always open to collaboration or conversation.
   
