@@ -1,6 +1,20 @@
   # Hi, I'm Alex Liu 👋
   
-  Data Analyst specializing in turning complex datasets into actionable insights.
+  I'm a data analyst with a background in music, research, and digital strategy. I use Python, SQL, and statistical modeling to turn complex problems into clear, actionable insights.
+
+  My work spans projects in public health, housing policy, and the music industry — from predicting ADHD using fMRI data to forecasting Spotify audience growth. I'm especially interested in        using data to tell human-centered stories and inform decisions in media, culture, and mission-driven sectors.
+
+  On this GitHub, you'll find selected projects involving:
+
+  Machine learning & predictive modeling
+
+  Data wrangling and visualization
+
+  Public policy & behavioral research
+
+  Music analytics & campaign optimization
+
+  Always open to collaboration or conversation.
   
   ## Skills
   - Data Analysis & Visualization
